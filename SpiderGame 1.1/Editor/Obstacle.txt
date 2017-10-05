@@ -1,0 +1,4 @@
+Obstacle List
+Obstacle1 22 7
+Obstacle2 50 26
+Obstacle3 40 -13

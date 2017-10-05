@@ -1,0 +1,4 @@
+Obstacle List
+Spawner1 -25 34
+Spawner2 5443 -27
+Spawner3 31 45646
